@@ -19,7 +19,7 @@ npm install
 
 2. `config.js` dosyasında Discord user token'ınızı belirtin:
 ```javascript
-token: "YOUR_DISCORD_USER_TOKEN_HERE"
+token: "KULLANICI TOKENİNİZ"
 ```
 
 3. İsteğe bağlı diğer ayarları yapılandırın
@@ -46,9 +46,9 @@ npm start
 3. **Hesap Riski**: Hesabınız kalıcı veya geçici Yasaklanabilir Bu durumdan zypheris sorumlu değildir
 4. **Spam Riski**: Aşırı mesaj gönderimi spam olarak algılanabilir
 
-## Yasal Uyarı
+## UYARI
 
-Bu yazılım sadece eğitim amaçlıdır. Discord'un Terms of Service'ini ihlal eden herhangi bir kullanımdan sorumlu olmazsınız. Kullanım tamamen kendi riskinizdir.
+Bu Program Botoria Development İçin yapılıp paylaşılmıştır herhangi bir yerde Sitelerde satışı yapılamaz gördüğümüz yerde donunuza kadar alırız ^_^
 
 
 ## 📞 İletişim & Destek
