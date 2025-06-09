@@ -1,6 +1,6 @@
 # Discord Self-Bot
 
-**⚠️ UYARI:  Discord self-bot kullanımıms of Service'e aykırıdır ve hesabınızın yasaklanmasına neden olabilir Herhangi bir durumdan Zypheris Sorumlu değildir**
+**⚠️ UYARI:  Discord self-bot kullanımıms Terms of Service'e aykırıdır ve hesabınızın yasaklanmasına neden olabilir Herhangi bir durumdan Zypheris Sorumlu değildir**
 
 ## Özellikler
 
