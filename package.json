@@ -1,0 +1,15 @@
+{
+  "name": "zypheris",
+  "version": "1.0.0",
+  "description": "discord otomatik cevap sistemi zypheris",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js-selfbot-v13": "^3.6.0"
+  }
+}

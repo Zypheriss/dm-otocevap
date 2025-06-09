@@ -1,0 +1,23 @@
+{
+  "token": "discord hesab tokeniniz",
+  "zypid": "admin ( sahip id )",
+  "bekleme_suresi": 3600000,
+  "zyprefix": ".",
+  "aktif_sablon": "varsayilan",
+  "debug": false,
+  "mesaj_sablonlari": {
+    "varsayilan": "Merhaba {user}! Ben Zypheris, şuanda meşgulum. En kısa sürede size geri dönüş yapacağım! 💙",
+    "mesgul": "Selam {user}! Şu anda çok yoğunum, acil bir durumsa lütfen tekrar yazın. Yoksa biraz sonra dönerim! ⏰",
+    "toplanti": "Merhaba {user}! Şu anda toplantıdayım, toplantı bitince size geri döneceğim! 📞",                
+    "uzakta": "Hey {user} Şuanda Dışardayım Eve geçince mesajına bakarımmm 🚶‍♂️",
+    "gece": "Merhaba {user} Dostum Şuanda uyuyorum bu otomatik cevaptır uyandığımda geri dönüş yaparım iyi geceler 🌙",
+    "gunduz": "Günaydın {user} şuanda uyuyorum Bana yazarak sabahımı güzelleştirdiğin için teşekkür ederim ☀️"
+  },
+  "zaman_bazli_mesajlar": {
+    "aktif": true,
+    "gece_baslangic": 22,
+    "gece_bitis": 8,                                                                                                
+    "gece_sablonu": "gece",
+    "gunduz_sablonu": "gunduz"
+  }
+}
